@@ -1,0 +1,2 @@
+xyz
+Add line using EGit
